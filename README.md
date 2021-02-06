@@ -6,7 +6,6 @@
 <pre>
   <code>
     - /언어명
-        /날짜
-          /제목.md
+        /제목.md
   </code>
 <pre>
