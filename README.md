@@ -7,7 +7,7 @@
   <code>
     - /언어명
         /제목.md
-    - /메모장
+    - /memo
         /메모제목.md 
   </code>
 <pre>
